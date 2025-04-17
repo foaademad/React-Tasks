@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.accordion {
+    border: 1px solid #ccc;
+}
+.accodion-header {
+    background: #bbb;
+    padding: .5em;
+}
+.accordion-content {
+    padding: .5em;
+}
