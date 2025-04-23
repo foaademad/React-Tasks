@@ -1,8 +1,7 @@
 
 export default function About() {
   return (
-    <h2 className="text-3xl font-bold underline ">
-    Hello world!
-  </h2>
+    <div className="min-h-100 w-full flex align-middle items-center text-4xl justify-items-center justify-center">Welcome To About Page</div>
+
   )
 }
